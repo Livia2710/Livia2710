@@ -106,14 +106,6 @@ src="https://custom-icon-badges.demolab.com/badge/linkedin-perfil-bb9af7?style=f
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>   
-<img 
-    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
@@ -128,6 +120,15 @@ src="https://custom-icon-badges.demolab.com/badge/linkedin-perfil-bb9af7?style=f
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>   
+
 
 <br/>
 <br/>
