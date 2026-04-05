@@ -4,9 +4,19 @@
 
 Me chamo Livia Figueiredo, tenho 19 anos e sou estudante de **Análise e Desenvolvimento de Sistemas na Faculdade SENAI**. Também possuo formação técnica em **Desenvolvimento de Sistemas pelo SENAI**, onde tive meu primeiro contato mais profundo com programação e desenvolvimento de software.
 
-Tenho interesse em **desenvolvimento web e mobile**, com experiência em projetos utilizando **React, JavaScript e integração com banco de dados SQL**. Entre meus projetos pessoais, desenvolvi um **e-commerce com React integrado ao Supabase** e atualmente estou desenvolvendo um **aplicativo mobile de livraria**.
+Tenho foco em desenvolvimento **web e mobile**, criando aplicações com atenção à experiência do usuário, performance e organização de código. Entre meus projetos pessoais, desenvolvi um **e-commerce com React integrado ao Supabase** e atualmente estou desenvolvendo um **aplicativo mobile de livraria**.
 
 Gosto de explorar novas tecnologias, aprender boas práticas de desenvolvimento e construir aplicações que resolvam problemas reais. Este GitHub reúne alguns dos meus **projetos acadêmicos e pessoais**, onde aplico e aprimoro meus conhecimentos em programação.
+
+<p align="left">
+  <a href="[https://my-portfolio-beta-inky-75.vercel.app/](https://my-portfolio-beta-inky-75.vercel.app/)">
+    <img 
+      alt="Portfólio" 
+      title="Acesse meu portfólio" 
+      src="https://custom-icon-badges.demolab.com/badge/portfolio-online-CFB04A?style=for-the-badge&logo=firefox&logoColor=black&labelColor=101010"
+    />
+  </a>
+</p>
 
 <p align="left">
 <a href="mailto:livia.figueiredo.dev@gmail.com">
@@ -26,6 +36,31 @@ src="https://custom-icon-badges.demolab.com/badge/linkedin-perfil-bb9af7?style=f
 </a>
 </p>
 
+---
+
+##  Projetos em Destaque
+
+###  Lavender (E-commerce)
+- React + Styled Components + Supabase  
+- Sistema de carrinho e favoritos  
+- Integração com backend  
+🔗 https://github.com/Livia2710/Lavender  
+
+---
+
+###  Controle de Certificados
+- Vite + React + Tailwind  
+- Geração de certificados em PDF  
+- Sistema criado para resolver problema real  
+🔗 https://controle-certificados-peach.vercel.app/  
+
+---
+
+###  Papiro App
+- React Native + Expo  
+- Aplicativo de leitura digital  
+- Em desenvolvimento  
+🔗 https://github.com/Livia2710/Papiro_App  
 
 
 ---
@@ -114,8 +149,8 @@ src="https://custom-icon-badges.demolab.com/badge/linkedin-perfil-bb9af7?style=f
 />
 <img 
     align="left" 
-    alt="Postegree" 
-    title="Postegree" 
+    alt="PosteSQL" 
+    title="PosteSQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
