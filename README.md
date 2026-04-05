@@ -9,6 +9,16 @@ Tenho interesse em **desenvolvimento web e mobile**, com experiência em projeto
 Gosto de explorar novas tecnologias, aprender boas práticas de desenvolvimento e construir aplicações que resolvam problemas reais. Este GitHub reúne alguns dos meus **projetos acadêmicos e pessoais**, onde aplico e aprimoro meus conhecimentos em programação.
 
 <p align="left">
+  <a href="https://my-portfolio-beta-inky-75.vercel.app/">
+    <img 
+      alt="Portfólio" 
+      title="Acesse meu portfólio" 
+      src="https://custom-icon-badges.demolab.com/badge/portfolio-online-CFB04A?style=for-the-badge&logo=firefox&logoColor=black&labelColor=1a1b27"
+    />
+  </a>
+</p>
+
+<p align="left">
 <a href="mailto:livia.figueiredo.dev@gmail.com">
 <img 
 alt="Email" 
@@ -26,6 +36,33 @@ src="https://custom-icon-badges.demolab.com/badge/linkedin-perfil-bb9af7?style=f
 </a>
 </p>
 
+---
+
+## Projetos em Destaque
+
+### Lavender (E-commerce)
+- React + Styled Components + Supabase  
+- Sistema de carrinho e favoritos  
+- Integração com backend  
+🔗 https://github.com/Livia2710/Lavender  
+
+---
+
+###  Controle de Certificados
+- Vite + React + Tailwind  
+- Geração de certificados em PDF  
+- Sistema criado para resolver problema real  
+🔗 https://controle-certificados-peach.vercel.app/  
+
+---
+
+###  Papiro App
+- React Native + Expo  
+- Aplicativo de leitura digital  
+- Em desenvolvimento  
+🔗 https://github.com/Livia2710/Papiro_App  
+
+---
 
 
 ---
