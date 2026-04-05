@@ -133,20 +133,15 @@ src="https://custom-icon-badges.demolab.com/badge/linkedin-perfil-bb9af7?style=f
 <br/>
 <br/>
 
-### 📊 Linguagens mais utilizadas
+### 📊 Estatísticas
 
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=livia2710&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<p align="center">
+  <img 
+    height="160" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=livia2710&show_icons=true&theme=tokyonight&hide_border=true"
   />
-
+  <img 
+    height="160" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=livia2710&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/livia2710/livia2710/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/livia2710/livia2710/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture
